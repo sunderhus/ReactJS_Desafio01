@@ -49,7 +49,7 @@ function App() {
         ))}
       </ul>
 
-      <Button handleFunction={handleAddRepository} label="Adicionar"/>
+      <Button handleFunction={handleAddRepository} label="Adicionar" />
     </div>
   );
 }
